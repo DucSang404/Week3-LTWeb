@@ -16,7 +16,7 @@
             <div class="card">
                 <div class="card-body">
                     <div class="text">
-                        <img src="<c:url value='/template/image.png'/> " alt="Murach Logo" class="img-fluid mb-4" style="max-width: 100px;">
+<%--                        <img src="<c:url value='/template/image.png'/> " alt="Murach Logo" class="img-fluid mb-4" style="max-width: 100px;">--%>
                         <h4 class="card-title" style="color: teal">Survey</h4>
                         <p>If you have a moment, we'd appreciate it if you would fill out this survey.</p>
 
